@@ -71,5 +71,7 @@ delete_button.pack(pady=10)
 listbox = tk.Listbox(window, width=50, height=15, font=("Segoe UI", 12, "bold"), bg="#2D2D2D", fg="#E4CC43", selectbackground="#5DDD63", selectmode=tk.MULTIPLE, relief="flat")
 listbox.pack(pady=10)
 
+window.bind('<Escape>', lambda event: window.destroy())
+
 load_tasks()
 window.mainloop()
