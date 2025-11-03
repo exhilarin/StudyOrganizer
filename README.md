@@ -1,1 +1,75 @@
-# StudyOrganizer
+# Study Organizer
+
+Study Organizer, Python ve Tkinter kullanılarak geliştirilmiş basit bir görev yönetim uygulamasıdır. Bu uygulama sayesinde görevlerinizi ekleyebilir, silebilir ve isteğe bağlı olarak görevlerinize tarih atayabilirsiniz.
+
+---
+
+## Özellikler
+
+* Görev ekleme ve silme.
+* Görevler için tarih seçimi (takvim üzerinden).
+* Görevleri dosyaya kaydetme ve uygulama açıldığında yükleme.
+* Çoklu görev seçimi ve silme.
+* Modern ve karanlık arayüz tasarımı.
+
+---
+
+## Gereksinimler
+
+* Python 3.x
+* Tkinter (Python ile birlikte gelir)
+* tkcalendar
+
+### Tkcalendar Kurulumu
+
+```bash
+pip install tkcalendar
+```
+
+---
+
+## Kullanım
+
+1. Uygulamayı çalıştırın:
+
+```bash
+python app.py
+```
+
+2. Görev eklemek için:
+
+   * Metin kutusuna görevi yazın.
+   * İsteğe bağlı olarak takvim butonuna basarak tarih seçin.
+   * "Add Task" butonuna tıklayın.
+
+3. Görev silmek için:
+
+   * Listeden silmek istediğiniz görevleri seçin.
+   * "Delete Task" butonuna tıklayın.
+
+4. Takvim göstermek veya gizlemek için 📅 butonuna tıklayın.
+
+5. Uygulamadan çıkmak için `ESC` tuşuna basabilirsiniz.
+
+---
+
+## Dosya Yapısı
+
+* `app.py` : Uygulamanın ana Python dosyası.
+* `tasks.txt` : Görevlerin kaydedildiği metin dosyası.
+
+---
+
+## Görünüm
+
+Uygulama modern bir karanlık tema ile tasarlanmıştır:
+
+* Arka plan: Koyu gri/ siyah
+* Görev listesi: Sarı ve yeşil vurgular
+* Butonlar: Mavi ve kırmızı renkler
+
+---
+
+<img width="623" height="809" alt="image" src="https://github.com/user-attachments/assets/db40bc2d-5863-4d2c-91a1-aed9016a3a36" />
+
+---
