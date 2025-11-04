@@ -6,7 +6,8 @@ Study Organizer, Python ve Tkinter kullanılarak geliştirilmiş basit bir göre
 ## Sunum Dosyası
 
 Projeye ait detaylı sunum dosyasını aşağıdaki bağlantıdan inceleyebilirsiniz:
-📂 [Study Organizer - Python.pptx]()
+📂 [Study Organizer - Python.pptx]
+https://github.com/exhilarin/StudyOrganizer/raw/refs/heads/main/Study%20Organizer%20-%20Python.pptx
 
 ---
 
