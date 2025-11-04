@@ -3,6 +3,12 @@
 Study Organizer, Python ve Tkinter kullanılarak geliştirilmiş basit bir görev yönetim uygulamasıdır. Bu uygulama sayesinde görevlerinizi ekleyebilir, silebilir ve isteğe bağlı olarak görevlerinize tarih atayabilirsiniz.
 
 ---
+## Sunum Dosyası
+
+Projeye ait detaylı sunum dosyasını aşağıdaki bağlantıdan inceleyebilirsiniz:
+📂 [Study Organizer - Python.pptx]()
+
+---
 
 ## Özellikler
 
