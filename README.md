@@ -70,6 +70,6 @@ Uygulama modern bir karanlık tema ile tasarlanmıştır:
 
 ---
 
-<img width="623" height="809" alt="image" src="https://github.com/user-attachments/assets/db40bc2d-5863-4d2c-91a1-aed9016a3a36" />
+<img width="631" height="766" alt="image" src="https://github.com/user-attachments/assets/74f18711-bb70-4ae1-9b12-f45635192a4b" />
 
 ---
